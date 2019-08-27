@@ -1,3 +1,4 @@
 *.lnk
 .ipynb_checkpoints/*
 GageData.csv
+Jupyter.bat
